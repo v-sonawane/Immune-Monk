@@ -19,3 +19,8 @@
 ## Overview
 
 ![Overview](https://github.com/v-sonawane/Immune-Monk/blob/main/assets/All-Features.PNG)
+
+## Technology Stack
+
+<ul><li>Programming Language:<ul><li>Dart</li></ul></li></ul>
+<ul><li>Framework:<ul><li>Flutter</li><li>Cloud Firestore</li><li>Dialogflow</li></ul></li></ul>
