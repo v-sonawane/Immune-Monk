@@ -1,0 +1,56 @@
+name: immune_monk
+description: Immune Monk
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^8.12.0
+
+  cupertino_icons: ^1.0.2
+  eva_icons_flutter:
+  flutter_rating_bar:
+  flutter_dialogflow: ^0.1.3
+  charts_flutter: ^0.10.0
+  wakelock: ^0.5.0+2
+  flashlight: ^0.1.1
+  camera: ^0.8.0
+  shared_preferences: ^0.5.10
+  pedometer:
+  google_fonts:
+  jiffy:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+   sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+  #   - images/a_dot_ham.jpeg
+
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: fonts/Ubuntu.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
